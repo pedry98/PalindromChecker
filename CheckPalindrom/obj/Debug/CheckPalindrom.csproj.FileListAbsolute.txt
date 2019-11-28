@@ -1,0 +1,9 @@
+C:\Users\Pedro\source\repos\CheckPalindrom\bin\Debug\CheckPalindrom.exe.config
+C:\Users\Pedro\source\repos\CheckPalindrom\bin\Debug\CheckPalindrom.exe
+C:\Users\Pedro\source\repos\CheckPalindrom\bin\Debug\CheckPalindrom.pdb
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.Form1.resources
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.Properties.Resources.resources
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.exe
+C:\Users\Pedro\source\repos\CheckPalindrom\obj\Debug\CheckPalindrom.pdb
